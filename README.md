@@ -27,6 +27,7 @@ In the generated text, there is lot of diseases and their respective treatment a
 - matplotlib library version 3.3.4
 - seaborn library version 0.11.1
 - scikit-learn library version 0.24.1
+- spacy library version 3.4
 - git version 2.33.0.windows.1
 
 
